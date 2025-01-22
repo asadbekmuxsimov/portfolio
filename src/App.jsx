@@ -1,6 +1,6 @@
 import './App.css'
 import AboutMe from './componenrs/about-me/AboutMe'
-import Contact from './componenrs/contact/contact'
+import Contact from './componenrs/contact/Contact'
 import Main from './componenrs/main/Main'
 import { Route, Router, Routes } from 'react-router-dom'
 
