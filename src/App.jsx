@@ -1,7 +1,7 @@
 import './App.css'
 import AboutMe from './componenrs/about-me/AboutMe'
 import Contact from './componenrs/contact/Contact'
-import Main from './componenrs/main/Main'
+import Main from './componenrs/main/main'
 import { Route, Router, Routes } from 'react-router-dom'
 
 function App() {
