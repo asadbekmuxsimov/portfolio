@@ -11,7 +11,7 @@ function AboutMe() {
                     <Link to='/Contact'><a href="">Contact</a></Link>
                 </ul>
             </nav>
-            <div className="bagraund max-w-[1440px] text-white p-10 ">
+            <div className="bagraund max-w-[1440px] text-white p-10 h-[660px] md:h-[660px]">
                 <div className='flex flex-col items-center'>
                     <h1 className='text-[22px] mb-5'>Men haqimda</h1>
                     <p className='text-[22px] mb-5'>
@@ -23,7 +23,7 @@ function AboutMe() {
                     <p className='text-[22px] mb-5'>
                         <strong>Yosh:</strong> 18
                     </p>
-                    <p className='text-[22px] mb-5'>
+                    <p className='text-[22px] mb-5 text-center'>
                         Najot Ta'lim o'quv markazida frontend dasturchi bo‘lib tahsil olyapman.
                     </p>
                 </div>

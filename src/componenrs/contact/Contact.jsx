@@ -12,7 +12,7 @@ function Contact() {
                     <Link to='/Contact'><a href="">Contact</a></Link>
                 </ul>
             </nav>
-            <div className="bagraund text-white max-w-[1440px] p-10">
+            <div className="bagraund text-white max-w-[1440px] p-10 h-[600px] md:h-[660px]">
                 <div className=' flex flex-col items-center'>
                     <h1 className='text-[22px] mb-5'>Aloqa</h1>
                     <p className='text-[22px] mb-5'>
@@ -30,7 +30,7 @@ function Contact() {
                         <a href="https://www.instagram.com/mukhsimov_a7">mukhsimov_a7</a>
                     </p>
                     <p className='text-[22px]'>
-                        <strong>Telefon:</strong> +998 95 111 60 50
+                        <strong>Telefon:</strong> +998 94 400 32 44
                     </p>
                 </div>
                 <div className='flex justify-end items-end h-[68%]'>
