@@ -7,14 +7,14 @@ function Main() {
     return (
         <>
             <nav className='p-5 flex justify-center text-white w-[100%] max-w-[1440px]'>
-                <ul className='flex gap-20 md:gap-28 '>
+                <ul className='flex gap-16 md:gap-28 '>
                     <Link to='/'><a href="">Main</a></Link>
                     <Link to='/AboutMe'><a href="">About me</a></Link>
                     <Link to='/Contact'><a href="">Contact</a></Link>
                 </ul>
             </nav>
             <div className='bagraund flex gap-10 justify-center p-3 md:p-20 flex-col md:flex-row items-center  max-w-[1440px] h-full md:h-[660px]'>
-                <div className=' rounded-xl w-96 md:w-[600px] pt-30 md:pt-0 '>
+                <div className=' rounded-xl w-80 md:w-[600px] pt-30 md:pt-0 '>
                     <img className='  w-full h-full rounded-3xl' src={rasm} alt="" />
                 </div>
                 <div className='text-white flex flex-col '>
